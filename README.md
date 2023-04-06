@@ -3,6 +3,7 @@
 - [**Task2**](https://github.com/Chuda4ok/34_Umanets_Oleksandr/edit/main/README.md#task2)
 - [**Task3**](https://github.com/Chuda4ok/34_Umanets_Oleksandr/edit/main/README.md#task3)
 - [**Task4**](https://github.com/Chuda4ok/34_Umanets_Oleksandr/edit/main/README.md#task4)
+- [**Task5**](https://github.com/Chuda4ok/34_Umanets_Oleksandr/edit/main/README.md#task5)
 # Task1
 Завдання:
 
@@ -43,3 +44,14 @@
 **Результат виконання програми**<br>
 ![](Task4/Res2.png)<br>
 ![](Task4/Res1.png)
+# Task5
+Завдання:
+
+1. Реалізувати можливість скасування (undo) операцій (команд).
+2. Продемонструвати поняття "макрокоманда"
+3. При розробці програми використовувати шаблон Singletone.
+4. Забезпечити діалоговий інтерфейс із користувачем.
+5. Розробити клас для тестування функціональності програми.
+
+**Результат виконання програми**<br>
+![](Task5/Res1.png)
