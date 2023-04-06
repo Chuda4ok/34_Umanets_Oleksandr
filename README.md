@@ -1,8 +1,8 @@
 # 34_Umanets_Oleksandr
-- [**Task1**](https://github.com/Chuda4ok/34_Umanets_Oleksandr/edit/main/README.md#task1)
-- [**Task2**](https://github.com/Chuda4ok/34_Umanets_Oleksandr/edit/main/README.md#task2)
-- [**Task3**](https://github.com/Chuda4ok/34_Umanets_Oleksandr/edit/main/README.md#task3)
-- [**Task4**](https://github.com/Chuda4ok/34_Umanets_Oleksandr/edit/main/README.md#task4)
+- [**Task1**](https://github.com/Chuda4ok/34_Umanets_Oleksandr/blob/main/README.md#task1)
+- [**Task2**](https://github.com/Chuda4ok/34_Umanets_Oleksandr/blob/main/README.md#task2)
+- [**Task3**](https://github.com/Chuda4ok/34_Umanets_Oleksandr/blob/main/README.md#task3)
+- [**Task4**](https://github.com/Chuda4ok/34_Umanets_Oleksandr/blob/main/README.md#task4)
 - [**Task5**](https://github.com/Chuda4ok/34_Umanets_Oleksandr/blob/main/README.md#task5)
 # Task1
 Завдання:
