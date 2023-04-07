@@ -4,6 +4,7 @@
 - [**Task3**](https://github.com/Chuda4ok/34_Umanets_Oleksandr#task3)
 - [**Task4**](https://github.com/Chuda4ok/34_Umanets_Oleksandr#task4)
 - [**Task5**](https://github.com/Chuda4ok/34_Umanets_Oleksandr#task5)
+- [**Task6**](https://github.com/Chuda4ok/34_Umanets_Oleksandr#task6)
 # Task1
 Завдання:
 
@@ -55,3 +56,11 @@
 
 **Результат виконання програми**<br>
 ![](Task5/Res1.png)
+# Task1
+Завдання:
+
+1. Продемонструвати можливість паралельної обробки елементів колекції (пошук мінімуму, максимуму, обчислення середнього значення, відбір за критерієм, статистична обробка тощо).
+2. Управління чергою завдань (команд) реалізувати за допомогою шаблону Worker Thread.
+
+**Результат виконання програми**<br>
+![](Task6/Res1.png)
